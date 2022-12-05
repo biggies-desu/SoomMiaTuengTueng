@@ -20,6 +20,7 @@ const Randomshit = () => {
                     </div>
                     <div className="bottom-right">
                         {/* onclick call rollwaifu function*/}
+                        <button ><a href="https://github.com/biggies-desu">กิตฮัพงานเหี้ยนี่ครับ'</a></button>
                         <button ><a href="https://github.com/biggies-desu">กิตฮัพกุครับ</a></button>
                         <button ><a href="https://github.com/biggies-desu">กิตฮัพ ไอเหี้ยบูส</a></button>
                     </div>
