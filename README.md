@@ -6,3 +6,5 @@ this is just project we making for fun since we get tired of getting snipe by ot
 ที่มีความโกรธเมื่อเพื่อนของมึงปาดหน้าตัวละครที่แม่งชอบ
 
 
+npm install
+npm start
